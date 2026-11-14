@@ -1,0 +1,6 @@
+{
+  "name": "Meridian — Travel Photography & Geotagged Spot Atlas",
+  "description": "Discover geotagged photography spots worldwide, upload high-resolution travel galleries with EXIF metadata, share field reviews, and collect fine art prints or commercial licenses.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
